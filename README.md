@@ -1,2 +1,2 @@
 # Vah
-create page
+create page for upi payment link and Qr
